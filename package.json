@@ -1,11 +1,32 @@
 {
-  "name": "s-template-backend-blog-1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "@strapi/template-blog",
+  "version": "2.0.5",
+  "description": "Strapi blog template",
+  "keywords": [
+    "strapi",
+    "template",
+    "blog"
+  ],
+  "homepage": "https://github.com/strapi/starters-and-templates#readme",
+  "bugs": {
+    "url": "https://github.com/strapi/starters-and-templates/issues"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strapi/starters-and-templates.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Strapi team",
+    "email": "hi@strapi.io",
+    "url": "https://strapi.io"
+  },
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "https://strapi.io"
+    }
+  ],
+  "gitHead": "d49ea4f7afa638581352c347dd8187b2de466e7e"
 }
