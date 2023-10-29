@@ -1,5 +1,5 @@
 {
-  "name": "s-template-backend-blog-1",
+  "name": "@strapi/template-blog",
   "version": "2.0.5",
   "description": "Strapi blog template",
   "keywords": [
