@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strapi/starters-and-templates.git"
+    "url": "git+https://github.com/Caglar-G/s-template-backend-blog-1.git"
   },
   "license": "MIT",
   "author": {
@@ -27,6 +27,5 @@
       "email": "hi@strapi.io",
       "url": "https://strapi.io"
     }
-  ],
-  "gitHead": "d49ea4f7afa638581352c347dd8187b2de466e7e"
+  ]
 }
