@@ -1,5 +1,5 @@
 {
-  "name": "@strapi/template-blog",
+  "name": "git+https://github.com/Caglar-G/s-template-backend-blog-1.git",
   "version": "2.0.5",
   "description": "Strapi blog template",
   "keywords": [
